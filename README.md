@@ -18,9 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/abbir.ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbir.ar" height="30" width="40" /></a>
-<a href="https://twitter.com/Abdoox7o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbir.ar" height="30" width="40" /></a>
-  
-<a href="https://www.youtube.com/@codkazo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codkazo" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -40,7 +37,10 @@
 
 [gmail]: mailto:abdelkabir.ouadoukou@gmail.com
 
-<!---& GRAPHIC DESIGNER
+<!---
+<a href="https://www.youtube.com/@codkazo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codkazo" height="30" width="40" /></a>
+<a href="https://twitter.com/Abdoox7o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbir.ar" height="30" width="40" /></a>
+& GRAPHIC DESIGNER
 - 💬 Ask me about **HTML, CSS, JS**
 - 👨‍💻 All of my projects are available at [https://github.com/abbir-ar](https://github.com/abbir-ar)
 ![abbir.ar](https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
