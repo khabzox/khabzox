@@ -1,5 +1,4 @@
 <h1 align="center" style="color: #fff;" >Hi 👋, I'm ABDELKABIR OUADOUKOU</h1>
-<img align="center" alt="Coding" width="1920" src="https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif" />
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/72/7f/6a727fbad9da6105c529b6a9dacd2826.gif" />
 
