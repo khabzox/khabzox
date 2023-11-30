@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/72/7f/6a727fbad9da6105c529b6a9dacd2826.gif" />
 
-<h3>I AM WEB DEVELOPER & GRAPHIC DESIGNER</h3>
+<h3>I AM WEB DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbir-ar&label=Profile%20views&color=0e75b6&style=flat" alt="abbir-ar" /> </p>
 
@@ -10,10 +10,6 @@
 - 🔭 I’m currently working on [AyoubSVT](https://AyoubSVT.com)
 
 - 🌱 I’m currently learning **Frontend Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/abbir-ar](https://github.com/abbir-ar)
-
-- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **abdelkabir.ouadoukou@gmail.com**
 
@@ -44,7 +40,9 @@
 
 [gmail]: mailto:abdelkabir.ouadoukou@gmail.com
 
-<!---
+<!---& GRAPHIC DESIGNER
+- 💬 Ask me about **HTML, CSS, JS**
+- 👨‍💻 All of my projects are available at [https://github.com/abbir-ar](https://github.com/abbir-ar)
 ![abbir.ar](https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
