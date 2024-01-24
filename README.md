@@ -1,7 +1,5 @@
 <h1 align="center" style="color: #fff;" >Hi 👋, I'm ABDELKABIR OUADOUKOU</h1>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/72/7f/6a727fbad9da6105c529b6a9dacd2826.gif" />
-
 <div align="left">
 <img src="https://img.shields.io/badge/Gmail-abdelkabir.ouadoukou@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=7752FE&&color=190482" height="35" />
 
@@ -17,6 +15,7 @@
   </a>
 
 </div>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/72/7f/6a727fbad9da6105c529b6a9dacd2826.gif" />
 
 
 <h3>I AM WEB DEVELOPER</h3>
