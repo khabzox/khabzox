@@ -58,9 +58,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
-
+<h3>Contact ME</h3>
 <div align="left">
-<img src="https://img.shields.io/badge/Gmail-abdelkabir.ouadoukou@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=7752FE&&color=190482" height="35" />
+<img src="https://img.shields.io/badge/Gmail-abdelkabir.ouadoukou@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=7752FE&&color=190482" height="30" />
 
 [gmail]: mailto:abdelkabir.ouadoukou@gmail.com
   <a href="https://www.youtube.com/@codkazo" target="_blank">
