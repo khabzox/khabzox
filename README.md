@@ -3,6 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/72/7f/6a727fbad9da6105c529b6a9dacd2826.gif" />
 
 <div align="left">
+<img src="https://img.shields.io/badge/Gmail-abdelkabir.ouadoukou@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=7752FE&&color=190482" height="35" />
+
+[gmail]: mailto:abdelkabir.ouadoukou@gmail.com
   <a href="https://www.youtube.com/@codkazo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -12,15 +15,13 @@
   <a href="https://wa.me/+212697998010" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-<img src="https://img.shields.io/badge/Gmail-abdelkabir.ouadoukou@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=7752FE&&color=190482" height="35" />
 
-[gmail]: mailto:abdelkabir.ouadoukou@gmail.com
 </div>
 
 
 <h3>I AM WEB DEVELOPER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khabzo&label=Profile%20views&color=0e75b6&style=flat" alt="abbir-ar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khabzo&label=Profile%20views&color=0e75b6&style=flat" alt="khabzo" /> </p>
 
   
 - 🔭 I’m currently working on [AyoubSVT](https://AyoubSVT.com)
@@ -30,11 +31,7 @@
 - 📫 How to reach me **abdelkabir.ouadoukou@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/abbir.ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khabzo" height="30" width="40" /></a>
-</p>
+- 
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
