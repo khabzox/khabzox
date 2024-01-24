@@ -76,8 +76,6 @@
 </div>
 
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/khabzo/khabzo/output/snake.svg" alt="Snake animation" />
 
 
