@@ -13,8 +13,10 @@
 Here are some ideas to get you started:
 -->
 
-- 👯 I'm up for collaboration at the moment
-- 📫 You can reach me via email: mdaif1332@gmail.com
+- 🔭 I’m currently working on [AyoubSVT](https://AyoubSVT.com)
+- 🌱 I’m currently learning **Frontend Development**
+- 📫 How to reach me **abdelkabir.ouadoukou@gmail.com**
+- ⚡ Fun fact **I am Funny**
 
 <img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=DEMON1A">
 
@@ -54,13 +56,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khabzo&label=Profile%20views&color=0e75b6&style=flat" alt="khabzo" /> </p>
 
   
-- 🔭 I’m currently working on [AyoubSVT](https://AyoubSVT.com)
 
-- 🌱 I’m currently learning **Frontend Development**
-
-- 📫 How to reach me **abdelkabir.ouadoukou@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
