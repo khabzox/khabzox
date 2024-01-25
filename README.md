@@ -65,9 +65,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
 </a>
 
-<a href="https://www.paypal.me/MohammedDieff/">
+<!-- <a href="https://www.paypal.me/">
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-</a>
+</a> -->
 </p>
 
 
