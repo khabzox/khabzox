@@ -71,6 +71,9 @@ Here are some ideas to get you started:
 </p>
 
 
+
+
+<!---
 <picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
@@ -85,9 +88,6 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-<!---
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khabzo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khabzo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khabzo&show_icons=true&locale=en&theme=tokyonight" alt="khabzo" /></p>
