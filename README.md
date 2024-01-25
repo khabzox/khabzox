@@ -1,10 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEMON1A">
-  <a href="https://twitter.com/DemoniaSlash">
-    <img src="https://img.shields.io/twitter/follow/DemoniaSlash?style=flat-square">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=khabzox">
 </p>
 
 <!--
@@ -56,6 +53,22 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+## Contact ME
+<div align="left">
+<img src="https://img.shields.io/badge/Gmail-abdelkabir.ouadoukou@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=7752FE&&color=190482" height="30" />
+
+[gmail]: mailto:abdelkabir.ouadoukou@gmail.com
+  <a href="https://www.youtube.com/@codkazo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.com/users/1178447743878975549" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://wa.me/+212697998010" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+
+</div>
 
 
 <h3>I AM WEB DEVELOPER</h3>
@@ -107,22 +120,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
-<h3>Contact ME</h3>
-<div align="left">
-<img src="https://img.shields.io/badge/Gmail-abdelkabir.ouadoukou@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=7752FE&&color=190482" height="30" />
 
-[gmail]: mailto:abdelkabir.ouadoukou@gmail.com
-  <a href="https://www.youtube.com/@codkazo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.com/users/1178447743878975549" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/+212697998010" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-
-</div>
 
 
 <img src="https://raw.githubusercontent.com/khabzo/khabzo/output/snake.svg" alt="Snake animation" />
