@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me **abdelkabir.ouadoukou@gmail.com**
 - ⚡ Fun fact **I am Funny**
 
-<img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=DEMON1A">
+<img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=khabzox">
 
 ### About me :dizzy:
 - I'm a python developer and bug bounty hunter for three years now. i enjoy creating open-source tools that helps people automating what they're doing specially for hacking things. i did create some cool projects like easyShell, Discord-Recon, WEngine, VCS, ..etc. that's purly written in python. Feel free to contact me if you need anything about security or development, i'm online most of the time
 
 
-### Programming/Scripting languages I use:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### Languages and Tools I use:
+![C](https://img.shields.io/badge/botstrap-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
