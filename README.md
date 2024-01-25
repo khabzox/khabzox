@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 </div>
 
-## Wanna support my work? :heart:
+## Wanna support me? :heart:
 <p align="center">
 <a href="https://www.patreon.com/khabzox">
   <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
