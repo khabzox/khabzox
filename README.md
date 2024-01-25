@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=khabzox">
 
 ### About me :dizzy:
-- 👋 Hey! I'm Abdelkabir, an aspiring web developer eager to make my mark in the digital world.I may be new to the game, but I've already dabbled in creating some exciting web projects. Let's collaborate and build something extraordinary! 💻✨. Feel free to contact me if you need anything about security or development, i'm online most of the time
+- 👋 Hey! I'm Abdelkabir, an aspiring web developer eager to make my mark in the digital world.I may be new to the game, but I've already dabbled in creating some exciting web projects. Let's collaborate and build something extraordinary! 💻✨. Feel free to contact me if you need anything about Web development or designing, I'm online most of the time
 
 
 ### Languages and Tools I use:
