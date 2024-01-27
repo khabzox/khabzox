@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Gmail-abdelkabir.ouadoukou@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=7752FE&&color=190482" height="30" />
 
 [gmail]: mailto:abdelkabir.ouadoukou@gmail.com
-  <a href="https://stackoverflow.com/users/23307155/abdelkabir-ouadoukou?tab=profile" target="_blank">
+<!--  <a href="https://stackoverflow.com/users/23307155/abdelkabir-ouadoukou?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="35" alt="youtube logo"  />
-  </a>
+  </a> -->
   <a href="https://discord.com/users/1178447743878975549" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
