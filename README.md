@@ -12,22 +12,8 @@
 </a>
 </p>
 
-<!--
-**DEMON1A/DEMON1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [AyoubSVT](https://AyoubSVT.com)
-- 🌱 I’m currently learning **Frontend Development**
-- 📫 How to reach me **abdelkabir.ouadoukou@gmail.com**
-- ⚡ Fun fact **I am Funny**
-
-<img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=khabzox">
--->
-
-
 ### About me :dizzy:
-- An aspiring web developer eager to make my mark in the digital world.I may be new to the game, but I've already dabbled in creating some exciting web projects. Let's collaborate and build something extraordinary! 💻✨. Feel free to contact me if you need anything about Web development or designing, I'm online most of the time
+- An aspiring web developer eager to make my mark in the digital world. I may be new to the game, but I've already dabbled in creating some exciting web projects. Let's collaborate and build something extraordinary! 💻✨. Feel free to contact me if you need anything about Web development or designing, I'm online most of the time
    <a href="https://linkedin.com/in/khabzox" target="_blank" style="color: #fff;">
    
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -49,14 +35,3 @@ Here are some ideas to get you started:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-<!--![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
-## Wanna support me? :heart:
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)-->
-
-
