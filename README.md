@@ -20,7 +20,16 @@ Here are some ideas to get you started:
 
 ### About me :dizzy:
 - An aspiring web developer eager to make my mark in the digital world.I may be new to the game, but I've already dabbled in creating some exciting web projects. Let's collaborate and build something extraordinary! 💻✨. Feel free to contact me if you need anything about Web development or designing, I'm online most of the time
-
+   <a href="https://linkedin.com/in/khabzox" target="_blank" style="color: #fff;">
+   
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
+  <a href="mailto:abdelkabir.ouadoukou@gmail.com" target="_blank">
+    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  </a>
+  <a href="https://wa.me/+212697998010" target="_blank">
+  ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+  </a>
 
 ### Languages and Tools I use:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,30 +40,15 @@ Here are some ideas to get you started:
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
 <!--![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)-->
-## Contact ME
-<div align="left">
-<img src="https://img.shields.io/badge/Gmail-abdelkabir.ouadoukou@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=7752FE&&color=190482" height="30" />
-
-[gmail]: mailto:abdelkabir.ouadoukou@gmail.com
-<!--  <a href="https://stackoverflow.com/users/23307155/abdelkabir-ouadoukou?tab=profile" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="35" alt="youtube logo"  />
-  </a> -->
-  <a href="https://discord.com/users/1178447743878975549" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/+212697998010" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-
-</div>
 
 ## Wanna support me? :heart:
 <p align="center">
