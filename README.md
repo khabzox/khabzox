@@ -3,6 +3,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khabzo&label=Profile%20views&color=0e75b6&style=flat)">
 </p>
+<p align="center">
+<a href="https://www.patreon.com/khabzox">
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+</a>
+<a href="https://www.buymeacoffee.com/khabzox">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+</p>
 
 <!--
 **DEMON1A/DEMON1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,14 +56,7 @@ Here are some ideas to get you started:
 <!--![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+## Wanna support me? :heart:
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)-->
 
-## Wanna support me? :heart:
-<p align="center">
-<a href="https://www.patreon.com/khabzox">
-  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
-</a>
-<a href="https://www.buymeacoffee.com/khabzox">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-</p>
+
