@@ -14,9 +14,8 @@
 
 ### About me :dizzy:
 - An aspiring web developer eager to make my mark in the digital world. I may be new to the game, but I've already dabbled in creating some exciting web projects. Let's collaborate and build something extraordinary! 💻✨. Feel free to contact me if you need anything about Web development, I'm online most of the time
-   <a href="https://linkedin.com/in/khabzox" target="_blank" style="color: #fff;">
-   
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+   <a href="https://www.linkedin.com/in/khabzox/" target="_blank">
+    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
   <a href="mailto:abdelkabir.ouadoukou@gmail.com" target="_blank">
     ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
