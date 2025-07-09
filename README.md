@@ -73,28 +73,6 @@ Full-stack developer passionate about creating innovative web solutions. I speci
 * **Mathematical Visualization** - Complex data and mathematical concepts
 * **UI/UX** - Modern component libraries and design systems
  
-## 🚀 Featured Projects
- 
-**🤖 AI Content Generator SaaS**
- 
-Full-stack SaaS with AI integration, authentication, and payment systems  
-`Next.js` `Supabase` `Generative AI` `Tailwind CSS`
- 
-**🔍 Business Lead Finder CLI**
- 
-Python CLI tool for business discovery and lead scoring in Morocco  
-`Python` `Data Scraping` `API Integration` `Functional Programming`
- 
-**🎨 Flux Corporation UI**
- 
-Modern React component library with advanced interactions  
-`React` `Radix UI` `React Hook Form` `Zod` `Drag & Drop`
- 
-**📊 N-th Roots of Unity Visualization**
- 
-Interactive mathematical visualization with 3D graphics  
-`Next.js` `Three.js` `KaTeX` `TypeScript`
- 
 ## 📊 GitHub Stats
  
 <div align="center"> 
