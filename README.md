@@ -84,5 +84,5 @@ Full-stack developer passionate about creating innovative web solutions. I speci
  
 Feel free to reach out for collaborations, freelance projects, or just to chat about tech! I'm always online and ready to help with web development projects.
 
-[![light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khabzox&theme=high-contrast)]
+![light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khabzox&theme=high-contrast)
 
