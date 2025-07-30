@@ -71,11 +71,13 @@ I am and will always be tinkering, experimenting and building through learning -
 
 ## 🔥 Specializations
  
-* **AI Integration** - Building AI-powered SaaS applications
-* **CLI Development** - Advanced command-line tools and automation
-* **Full-Stack SaaS** - Complete web application architecture
-* **Mathematical Visualization** - Complex data and mathematical concepts
-* **UI/UX** - Modern component libraries and design systems
+* **AI Integration**: Building AI-powered SaaS apps that solve real problems, reflecting my goal as an AI-focused engineer working toward AGI.
+* **CLI Development**: Developing useful command-line tools and automation to improve workflow and productivity.
+* **Full-Stack SaaS**: Creating scalable, maintainable web applications from front to back.
+* **Mathematical Visualization**: Making interactive visual tools to help understand complex math and data.
+* **UI/UX Design**: Designing modern, easy-to-use components and interfaces for better user experiences.
+* **Scalable Systems**: Building software architectures that can grow smoothly and reliably with demand.
+* **Intelligent Agents**: Working on smart agents that learn and make decisions, advancing AI’s future.
  
 ## 📊 GitHub Stats
  
