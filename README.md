@@ -15,7 +15,11 @@
 
 ## About me :dizzy:
  
-Full-stack developer passionate about creating innovative web solutions. I specialize in modern web technologies and love building scalable applications from concept to deployment. Always eager to learn new technologies and collaborate on exciting projects! 💻✨
+I am pursuing a degree in Computer Science and planning to become a software engineer with a focus on AI. I am currently learning modern software design practices and developing capabilities in scalable systems and intelligent agents. 
+
+In the long-term, I want to help build Artificial General Intelligence (AGI) and to explore and innovate with future technologies. 
+
+I am and will always be tinkering, experimenting and building through learning - one project at a time. I am always open to opportunities to partner, mentor or to learn. Please don't hesitate to reach out and let's create the future together!  🚀🤖
 
 ## 🚀 Tech Stack
 
