@@ -76,13 +76,6 @@ I am and will always be tinkering, experimenting and building through learning -
 * **Scalable Systems**: Building software architectures that can grow smoothly and reliably with demand.
 * **Intelligent Agents**: Working on smart agents that learn and make decisions, advancing AI’s future.
  
-## 📊 GitHub Stats
- 
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=abdelkabirouadoukou&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkabirouadoukou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> 
-</div> 
-
 ## 📫 Let's Connect
  
 Feel free to reach out for collaborations, freelance projects, or just to chat about tech! I'm always online and ready to help with web development projects.
