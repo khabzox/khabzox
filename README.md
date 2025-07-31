@@ -8,7 +8,7 @@
 <a href="https://www.patreon.com/khabzox"> 
 <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> 
 </a> 
-<a href="https://www.buymeacoffee.com/khabzox"> 
+<a href="https://www.buymeacoffee.com/abdelkabirouadoukou"> 
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> 
 </a> 
 </p> 
