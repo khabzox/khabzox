@@ -5,9 +5,6 @@
 </p> 
 
 <p align="center"> 
-<!-- <a href="https://www.patreon.com/khabzox"> 
-<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> 
-</a>  -->
 <a href="https://www.buymeacoffee.com/abdelkabirouadoukou"> 
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> 
 </a> 
@@ -89,6 +86,4 @@ I am and will always be tinkering, experimenting and building through learning -
 ## 📫 Let's Connect
  
 Feel free to reach out for collaborations, freelance projects, or just to chat about tech! I'm always online and ready to help with web development projects.
-
-![light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelkabirouadoukou&theme=high-contrast)
 
