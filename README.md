@@ -82,13 +82,13 @@ I am and will always be tinkering, experimenting and building through learning -
 ## 📊 GitHub Stats
  
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=khabzox&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khabzox&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=abdelkabirouadoukou&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkabirouadoukou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> 
 </div> 
 
 ## 📫 Let's Connect
  
 Feel free to reach out for collaborations, freelance projects, or just to chat about tech! I'm always online and ready to help with web development projects.
 
-![light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khabzox&theme=high-contrast)
+![light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelkabirouadoukou&theme=high-contrast)
 
