@@ -65,13 +65,6 @@ I am and will always be tinkering, experimenting and building through learning -
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 </p>
-
-## 📊 GitHub Stats
- 
-<div align="center"> 
-<img src="https://bad-apple-github-readme.vercel.app/api?username=abdelkabirouadoukou&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkabirouadoukou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> 
-</div> 
  
 ## 📫 Let's Connect
  
